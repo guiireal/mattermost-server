@@ -300,6 +300,10 @@
     "translation": "Unable to delete direct or group message channels"
   },
   {
+    "id": "api.channel.move_channel.type.invalid",
+    "translation": "Unable to move direct or group message channels"
+  },
+  {
     "id": "api.channel.get_channel_moderations.license.error",
     "translation": "Your license does not support channel moderation"
   },
